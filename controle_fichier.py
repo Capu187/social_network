@@ -1,6 +1,6 @@
 import json  # Bibliothèque pour la manipulation de fichiers JSON
 
-
+#testteste
 class FileManager:
     userFile = "../data/users_linked.json"#peut etre que les passer en instance sera  plus simple?
     publicationsFile = "../data/publications.json"#peut etre que les passer en instance sera  plus simple?
